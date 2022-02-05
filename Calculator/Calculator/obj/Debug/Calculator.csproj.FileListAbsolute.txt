@@ -1,0 +1,6 @@
+C:\Users\qq\RiderProjects\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\qq\RiderProjects\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\qq\RiderProjects\Calculator\Calculator\obj\Debug\Calculator.csproj.AssemblyReference.cache
+C:\Users\qq\RiderProjects\Calculator\Calculator\obj\Debug\Calculator.csproj.CoreCompileInputs.cache
+C:\Users\qq\RiderProjects\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\qq\RiderProjects\Calculator\Calculator\obj\Debug\Calculator.pdb
